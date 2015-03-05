@@ -104,13 +104,13 @@ dimple.legend.shapes;
 dimple.legend.width;
 dimple.legend.x;
 dimple.legend.y;
-;
+
 dimple.plot = {};
 dimple.plot.area;
 dimple.plot.bar;
 dimple.plot.bubble;
 dimple.plot.line;
-;
+
 dimple.series = {};
 dimple.series = function(chart, categoryFields, xAxis, yAxis, zAxis, colorAxis, plotFunction, aggregateMethod, stacked) {};
 dimple.series.addGroupOrderRule = function(ordering, desc) {};
